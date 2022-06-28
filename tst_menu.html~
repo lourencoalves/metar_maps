@@ -1,0 +1,29 @@
+<!DOCTYPE html> 
+<html lang="pt-BR"> 
+<head> 
+  <meta charset="utf-8"> 
+  <title> Menu </title> 
+</head> 
+<body>
+
+<script type = "text / javascript" src = "domtab.js"> </ script>
+
+<div class = "domtab">
+  <ul class = "domtabs">
+    <li> <a href="# t1 "> Teste 1 </a> </ li>
+    <li> <a href="#t2"> Teste 2 </a> </ li>
+[... e assim por diante ...]
+  </ ul>
+  <div>
+    <h2> <a name="t1" id=" t1 "> Proof 1 </a> </ h2>
+    <p> Teste para provar que mais do que um menu é possível </ p>
+    <p> <a href="#top"> voltar ao menu </a> </ p>
+  </ div>
+  <div>
+    <h2> <a name="t2" id="t2"> Prova 2 </a> </ h2>
+    <p> Teste para provar que mais do que um menu é possível </ p>
+    <p> <a href="#top"> voltar ao menu </a> </ p>
+  </ div>
+
+</body>
+</html>

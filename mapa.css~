@@ -1,0 +1,48 @@
+html {
+	height: 100%;
+	}
+body {
+
+		font-family: 'trebuchet ms';
+		font-weight: bold;
+		height: 100%;
+ 		font-family: Arial, Tahoma;
+		font-size: 12px;
+ 		color: #808080;
+		}
+div#mapa {
+	border: 1px solid;
+ 	height: 100%;
+ 	width: 80%;
+	}
+	
+div#conteudo {
+	width: 100%;
+	}
+	
+div.tipo-icone {
+	width: 1100px;
+}
+	
+div.tipo-icone a {
+	text-decoration: none;
+	color: #000;
+	display: inline-block;
+	margin-left: 20px;
+	background-image: url(https://scontent-gru1-1.xx.fbcdn.net/hphotos-xfa1/v/t1.0-9/11428009_710323275762445_2320024602996702248_n.jpg?oh=8038ab8167300597ad5f4aec2205ef9a&oe=5633AC0D);
+	width:95px;
+	height:52px;
+	line-height: 52px;
+	text-align: center; 	
+	background-repeat: no-repeat;
+}
+	
+div.tipo-icone a:hover {
+	color: green;
+	background: url(https://scontent-gru1-1.xx.fbcdn.net/hphotos-xft1/v/t1.0-9/11393009_710323392429100_7249154071670013030_n.jpg?oh=8ff3fa29e8c82a94da6dc968618532d3&oe=562D3E90);
+	width:95px;
+	height:52px;
+	line-height: 52px;
+	text-align: center;
+	background-repeat: no-repeat;
+	}
